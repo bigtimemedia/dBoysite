@@ -1,0 +1,32 @@
+<footer>
+        <ul>
+          <a href="https://www.twitter.com/ania_kubow">
+            <li>Twitter</li>
+          </a>
+          <a href="https://www.github.com/kubowania">
+            <li>GitHub</li>
+          </a>
+          <a href="https://www.linkedin.com/ania_kubow">
+            <li>LinkedIn</li>
+          </a>
+        </ul>
+        
+        <div id="footer">Terms and Conditions </div>
+      </footer>
+
+
+        <footer>
+        <div>
+            <ul>
+                <a href="https://www.twitter.com/ania_kubow">
+                  <li>Twitter</li>
+                </a>
+                <a href="https://www.github.com/kubowania">
+                  <li>GitHub</li>
+                </a>
+                <a href="https://www.linkedin.com/ania_kubow">
+                  <li>LinkedIn</li>
+                </a>
+              </ul>
+        </div>
+    </footer>
